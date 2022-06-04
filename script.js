@@ -1,0 +1,10 @@
+btn1 = document.getElementById('btn-1')
+btn2 = document.getElementById('btn-2')
+btn3 = document.getElementById('btn-3')
+btn4 = document.getElementById('btn-4')
+btn5 = document.getElementById('btn-5')
+btn_submit = document.getElementById('submit-btn')
+rating = document.getElementById('rating')
+container = document.querySelector('.container')
+container_ty = document.querySelector('.container-ty')
+

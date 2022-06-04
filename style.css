@@ -137,6 +137,10 @@ main {
     color: var(--light-grey);
 }
 
+.none {
+    display: none;
+}
+
 .attribution {
     margin-top: 3rem;
     color: var(--light-grey);
