@@ -116,6 +116,7 @@ main {
 }
 
 .container-ty img {
+    margin-top: 1rem;
     margin-bottom: 1.5rem;
 }
 
@@ -123,8 +124,12 @@ main {
     background-color: var(--dark-blue);
     border-radius: 25px;
     color: hsl(25, 97%, 53%, 80%);
-    margin-bottom: 1.5rem;
+    margin-bottom: 3rem;
     padding: .5rem;
+}
+
+.container-ty .rating span {
+    color: hsl(25, 97%, 53%, 80%);
 }
 
 .container-ty h1 {
